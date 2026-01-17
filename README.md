@@ -91,12 +91,8 @@ The graph below (generated in the accompanying Colab notebook) visualizes the pe
 * Y-Axis: TOPSIS Score
 * The bar chart clearly indicates M3 as the superior option.
 
-```
 ![Graph](image.png)
-
-```
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
