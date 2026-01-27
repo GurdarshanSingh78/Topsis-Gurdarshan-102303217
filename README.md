@@ -5,6 +5,10 @@
 ## Live Demo
 Check out the web service here: [https://topsis-web-service.vercel.app/](https://topsis-web-service.vercel.app/)
 
+## PyPI Link
+[https://pypi.org/project/Topsis-Gurdarshan-102303217/](https://pypi.org/project/Topsis-Gurdarshan-102303217/)
+
+
 ## Methodology
 
 TOPSIS is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution (best possible value) and the longest geometric distance from the negative ideal solution (worst possible value).
